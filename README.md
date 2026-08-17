@@ -8,7 +8,7 @@ Write `a2a filename.ppm scale_factor` in your console
 
 ppm P6 is the only supported format for now
 
-scale_factor controls the size of the output ASCII art, higher values make the output smaller
+`scale_factor` controls the size of the output ASCII art, higher values make the output smaller
 
 For example:
 `a2a img.ppm 4`
