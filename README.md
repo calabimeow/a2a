@@ -13,4 +13,4 @@ scale_factor controls the size of the output ASCII art, higher values make the o
 For example
 `a2a img.ppm 4`
 
-**Note**: this program was made for Windows. Don't expect it to run on your machine
+**Note**: this program is made for Windows. Don't expect it to run on your machine
