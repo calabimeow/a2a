@@ -10,7 +10,7 @@ ppm P6 is the only supported format for now
 
 scale_factor controls the size of the output ASCII art, higher values make the output smaller
 
-For example
+For example:
 `a2a img.ppm 4`
 
 **Note**: this program is made for Windows. Don't expect it to run on your machine
