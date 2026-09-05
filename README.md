@@ -6,7 +6,7 @@ Image to ASCII converter written in Assembly
 ## How to use
 Write `a2a filename.ppm scale_factor` in your console
 
-ppm P6 is the only supported format for now
+ppm P6 is the only supported format
 
 `scale_factor` controls the size of the output ASCII art, higher values make the output smaller
 
